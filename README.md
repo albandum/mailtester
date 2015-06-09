@@ -8,4 +8,5 @@ python mailtester.py streak_stage_name
 A csv file called "inputlist.csv" should be in the same folder have the right format
 
 # Output format
-CSV uploadable directly to streak
+valid.csv: uploadable directly to streak
+failed.csv: Contains the error message of failure (if something else that email not valid)
