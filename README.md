@@ -5,7 +5,7 @@ This script validates possible email addresses of leads outputs a CSV file that 
 python mailtester.py streak_stage_name
 
 # Input format
-A csv file called "inputlist.csv" should be in the same folder have the right format
+A csv file called "inputlist.csv" should be in the same folder have the same format than the example provided
 
 # Output format
 valid.csv: uploadable directly to streak
