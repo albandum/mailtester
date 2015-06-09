@@ -9,4 +9,7 @@ A csv file called "inputlist.csv" should be in the same folder have the right fo
 
 # Output format
 valid.csv: uploadable directly to streak
+
 failed.csv: Contains the error message of failure (if something else that email not valid)
+
+Streak CRM: You can import valid.csv directly in Streak, this will create all the lead generation boxes you need with the right name, company and email address
